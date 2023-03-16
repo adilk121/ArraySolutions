@@ -1,5 +1,6 @@
 my_array = [1, 2, 3, 4, 5]
 # Find the length of the array
+//new ary
 n = len(my_array)
 # Loop through the first half of the array
 for i in range(n // 2):
